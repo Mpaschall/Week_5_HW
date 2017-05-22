@@ -1,0 +1,9 @@
+c:\users\xdark\documents\visual studio 2015\Projects\11_20\11_20\bin\Debug\11_20.exe.config
+c:\users\xdark\documents\visual studio 2015\Projects\11_20\11_20\bin\Debug\11_20.exe
+c:\users\xdark\documents\visual studio 2015\Projects\11_20\11_20\bin\Debug\11_20.pdb
+c:\users\xdark\documents\visual studio 2015\Projects\11_20\11_20\obj\Debug\11_20.csprojResolveAssemblyReference.cache
+c:\users\xdark\documents\visual studio 2015\Projects\11_20\11_20\obj\Debug\_11_20.Form1.resources
+c:\users\xdark\documents\visual studio 2015\Projects\11_20\11_20\obj\Debug\_11_20.Properties.Resources.resources
+c:\users\xdark\documents\visual studio 2015\Projects\11_20\11_20\obj\Debug\11_20.csproj.GenerateResource.Cache
+c:\users\xdark\documents\visual studio 2015\Projects\11_20\11_20\obj\Debug\11_20.exe
+c:\users\xdark\documents\visual studio 2015\Projects\11_20\11_20\obj\Debug\11_20.pdb
